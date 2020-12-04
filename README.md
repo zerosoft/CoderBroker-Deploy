@@ -10,3 +10,6 @@ extensions 放置相关逻辑工程数据
   extensions\GameServer 逻辑工程相关，逻辑工程Jar放置于此
 
 start.bat win版本的运行脚本，可依据需要修改
+
+docker 镜像 https://hub.docker.com/repository/docker/zerosoft/new_game_world/general
+构建路径 在/home/runtime/
